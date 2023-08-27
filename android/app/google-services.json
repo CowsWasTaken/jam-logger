@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457442626452",
+    "project_id": "jam-logger",
+    "storage_bucket": "jam-logger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457442626452:android:57d2d57d02ec7c7d6b9d81",
+        "android_client_info": {
+          "package_name": "com.cows.are.beautiful.jam_logger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457442626452-ghjpgffni9rnjkj36ckkfq2ahlf8o2hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1t2nLa935a73JjFH7Dw2I0nPoVfK5jM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457442626452-ghjpgffni9rnjkj36ckkfq2ahlf8o2hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
